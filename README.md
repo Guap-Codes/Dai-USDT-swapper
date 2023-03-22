@@ -3,16 +3,16 @@ This JavaScript code snippet uses the Uniswap SDK and ethers.js library to swap 
 
 # To execute this script, you need to perform the following steps: 
 
-Install Node.js on your computer, if you haven't already done so. You can download the latest version of Node.js from the official website (https://nodejs.org).
+1. Install Node.js on your computer, if you haven't already done so. You can download the latest version of Node.js from the official website (https://nodejs.org).
 
-Save the JavaScript code in a file with a .js extension, for example, swap.js.
+2. Save the JavaScript code in a file with a .js extension, for example, swap.js.
 
-Open a command prompt or terminal window and navigate to the directory where you saved the swap.js file.
+3. Open a command prompt or terminal window and navigate to the directory where you saved the swap.js file.
 
-Install the required packages by running the following command: 'npm install ethers @uniswap/sdk'
+4. Install the required packages by running the following command: 'npm install ethers @uniswap/sdk'
 
-Replace the placeholder values for your-project-id, your-private-key, and 0xYourWalletAddress with the actual values for your Infura project ID, private key, and wallet address.
+5. Replace the placeholder values for your-project-id, your-private-key, and 0xYourWalletAddress with the actual values for your Infura project ID, private key, and wallet address.
 
-Run the script by typing the following command in the terminal window: 'node swap.js'
+6. Run the script by typing the following command in the terminal window: 'node swap.js'
 
-The script should execute and perform the swap of Dai for USDT tokens on the Uniswap exchange. If the swap is successful, you should see the transaction hash printed in the console.
+7. The script should execute and perform the swap of Dai for USDT tokens on the Uniswap exchange. If the swap is successful, you should see the transaction hash printed in the console.
